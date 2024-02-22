@@ -29,7 +29,6 @@ def main():
     turtle.goto(-150, -75)
     turtle.down()
     
-    # Намалюємо сніжинку Коха з порядком 3 та розміром 450
     koch_snowflake_flake(turtle, order, 450)
 
     turtle.hideturtle()
